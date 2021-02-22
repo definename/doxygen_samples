@@ -1,7 +1,7 @@
 # doxygen_samples
 Repo to play with doxygen
 
-# Environment
+# environment
 - cmake (3.10)
 - ubuntu (18.04)
 - doxygen (1.8.13)
