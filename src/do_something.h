@@ -8,7 +8,7 @@
             A more elaborated file description
             A more elaborated file description.
  * @param[in] data Parameter to do something with.
- * @return bool
+ * @return bool, just to return
  */
 bool do_something(const int data);
 
