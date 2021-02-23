@@ -2,7 +2,7 @@
 Repo to play with doxygen
 
 # environment
-- cmake (3.10)
+- cmake (3.5)
 - ubuntu (18.04)
 - doxygen (1.8.13)
 
